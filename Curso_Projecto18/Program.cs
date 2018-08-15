@@ -11,6 +11,7 @@ namespace Curso_Projecto18
 		static void Main(string[] args)
 		{
 			Console.WriteLine("Projecto criado para servir de exemplo ao estudo do Git e GitHub!");
+			Console.WriteLine("Buenos dias");
 			Console.ReadLine();
 		}
 	}
